@@ -1,4 +1,4 @@
-# surfs_up
+# surfs_up - Data Storage and Retrieval
 # Overview of the analysis:
 **Purpose of the analysis**
 <br/>W. Avy wants to know temperature trends in Ohahu before opening the surf shop.  He wants temperature data for the months of June and December in order to determine if the surf and ice cream shop would be sustainable year round. 
