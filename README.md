@@ -3,7 +3,7 @@
 **Purpose of the analysis**
 <br/>W. Avy wants to know temperature trends in Ohahu before opening the surf shop.  He wants temperature data for the months of June and December in order to determine if the surf and ice cream shop would be sustainable year round. 
 
-# Methods
+# Methods:
 <br/>Using Python, Pandas, and SQLAlchemy to filter the data from hawaii.sqlite database to retrieve all the temperatures for the month of June and December.  Convert those temberatures to a list, and creating dataframe.  Lastly generate a statistics summary for the month of June and December. 
 
 # Results: 
